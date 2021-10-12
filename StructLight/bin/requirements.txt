@@ -1,4 +1,4 @@
 py3d==0.3.0.0
 numpy==1.16.0
-opencv_contrib_python==3.4.0.12
+opencv_contrib_python==3.4.7.28
 open3d==0.1.1
